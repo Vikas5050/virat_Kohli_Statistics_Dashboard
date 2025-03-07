@@ -27,7 +27,7 @@ This project is a Power BI dashboard that presents detailed statistics of Virat 
 - Basic understanding of Power BI for navigation and interaction
 
 ## Screenshots
-_(Add screenshots of your Power BI dashboard here for better visualization)_
+![Image](https://github.com/user-attachments/assets/45b7c907-1863-4f3a-a93a-e3b6e1548f3b)
 
 ## Contributing
 Contributions are welcome! If you have improvements or new insights to add, feel free to fork the repository and submit a pull request.
